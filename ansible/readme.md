@@ -1,5 +1,7 @@
 # Ansible
 
+- Considering the security, we delete the private key files when we make the repo public
+
 1. Deploy instancess on the Nectar
    - <table>
        <tr>
